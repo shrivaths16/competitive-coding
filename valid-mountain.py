@@ -1,3 +1,6 @@
+# checking whether an array has strictly increasing elements followed by strickly decreasing elements
+# leetcode: https://leetcode.com/problems/valid-mountain-array/
+
 class Solution:
     def validMountainArray(self, arr: List[int]) -> bool:
         length = len(arr)
